@@ -1,0 +1,11 @@
+ass fuck
+overflow
+git clone 
+git config --global user.name (name)
+git config --global user.email (mail)
+			.mail
+git status статус
+git add добавляем файл
+git branch создает ветку
+git git checkout  назв ветки (перейти в ветку)
+git branch -b создает ветку и сразу заходит в нее
